@@ -23,3 +23,11 @@ We believe in sharing our data, analyses, codebook and the survey itself to help
 [Data](survey-data/survey_respondent_data.csv)
 
 We hope that these are helpful for looking at the results of any survey or poll that you see reported in the media or referenced anywhere else.
+
+## Tricky Issues
+
+Survey data can have a range of question types that can make analysis tricky. Multiple response questions - those that ask respondents to answer more than one question, have output that is split across multiple questions, these need to be wrangled, melted, or consolidated in order to be summarised or enumerated correctly.
+
+The sky is open regarding visualizations of quantitative and qualitative questions. 
+
+Additionally there is  wide variety of hypotheses to test beyond the questions as written, are there different demographic types answering questions in certain ways? Do you have enough sample for cross-tabs to be statistically significant? Is the sample of survey respondents sufficient to match the general population?
