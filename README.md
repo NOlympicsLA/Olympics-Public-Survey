@@ -30,4 +30,12 @@ Survey data can have a range of question types that can make analysis tricky. Mu
 
 The sky is open regarding visualizations of quantitative and qualitative questions. 
 
-Additionally there is  wide variety of hypotheses to test beyond the questions as written, are there different demographic types answering questions in certain ways? Do you have enough sample for cross-tabs to be statistically significant? Is the sample of survey respondents sufficient to match the general population?
+Additionally there is  wide variety of hypotheses to test beyond the questions as written, are there different demographic types answering questions in certain ways? Do you have enough sample for cross-tabs to be statistically significant? Is the sample of survey respondents sufficient to match the general population? Do they need to be re-weighted?
+
+## Resources To Be Added
+
+Helpful Packages
+
+Example Visualizations
+
+
