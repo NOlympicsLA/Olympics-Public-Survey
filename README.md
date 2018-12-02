@@ -16,10 +16,10 @@ In the spirit of continuing to provide as much information as possible to people
 
 We believe in sharing our data, analyses, codebook and the survey itself to help demystify surveys, and how public opinion is measured and to aid data users in designing and getting experience analyzing survey data. The output from Survey Monkey - the vendor we used to supply random public responses is quite alike data output from Qualtrics and other survey vendors.  
 
-[Questionnaire]("\survey-data\Questionaire_SurveyMonkey.pdf")
+[Questionnaire]("/survey-data/Questionaire_SurveyMonkey.pdf")
 
-[Data Dictionary]("\survey-data\survey_dictionary.csv")
+[Data Dictionary]("/survey-data/survey_dictionary.csv")
 
-[Data]("\survey-data\survey_respondent_data.csv)
+[Data]("/survey-data/survey_respondent_data.csv)
 
 We hope that these are helpful for looking at the results of any survey or poll that you see reported in the media or referenced anywhere else.
